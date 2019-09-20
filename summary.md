@@ -6,7 +6,7 @@ ArrayTest
 
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
-    A1: To learn more about iterating on an array, also setting and getting data from it. Also been able to know and use System functions to help copy an already existing array to another one.
+    A1: To learn more about iterating on an array, also setting and getting data from it. Also been able to know and use System functions to help copy an already existing array to another one. https://www.edureka.co/blog/java-array/
 
     Q2: Why the test failed at first?
     
@@ -31,7 +31,7 @@ CollectionsTest
 
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
-    A1: To learn more about iterators and how to customize your own one. Also being able to utilize it in a loop, get and set their values. And also about different types of Collections such as Lists and Sets.
+    A1: To learn more about iterators and how to customize your own one. Also being able to utilize it in a loop, get and set their values. And also about different types of Collections such as Lists and Sets. https://www.edureka.co/blog/java-collections/
 
     Q2: Why the test failed at first?
     
